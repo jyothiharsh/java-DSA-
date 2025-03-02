@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class size{
+class example2{
     public static void main(String[]args){
         Scanner scan = new Scanner(System.in);
         System.out.println("enter the size:");
